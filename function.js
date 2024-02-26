@@ -1,6 +1,6 @@
 function Email(){
     let name = document.getElementById('name').value;
-    let email = "tk1larmond@gmail.com";
+    let email = "tiana.larmond19@gmail.com";
     let subject = document.getElementById('subject').value;
     let message = document.getElementById('message').value;
 
